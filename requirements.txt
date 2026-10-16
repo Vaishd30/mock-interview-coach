@@ -1,0 +1,14 @@
+streamlit
+langchain-core
+langchain-openai
+pydantic
+python-dotenv
+streamlit
+groq
+python-dotenv
+pandas
+streamlit
+groq
+python-dotenv
+pandas
+streamlit-mic-recorder

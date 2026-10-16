@@ -1,0 +1,9 @@
+
+.env
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+mock/
+interview_history.json
+.streamlit/secrets.toml
